@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ISWinT Website
-- 🌱 I’m currently learning Angular, .NET
-- 👯 I’m looking to collaborate on Web Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>Computer science student at The Polytechnic University of Timisoara</p>
+
+```javascript
+const edi = {
+  code: [Javascript, Typescript, HTML, CSS, C, C++],
+  frameworkOfChoice: Angular,
+  hobbies: [coding, volunteering],
+  communities: [LigaAC, GDSC, tim.js]
+}
+```
 
