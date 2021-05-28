@@ -11,6 +11,7 @@ const edi = {
 }
 ```
 
-[![Edi's GitHub stats](https://github-readme-stats.vercel.app/api?username=edi334)](https://github.com/anuraghazra/github-readme-stats)
+![Edi's GitHub stats](https://github-readme-stats.vercel.app/api?username=edi334&count_private=true)
+
 
 
