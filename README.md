@@ -10,5 +10,15 @@ const edi = {
   communities: ['LigaAC', 'GDSC', 'tim.js']
 }
 ```
-![Edi's GitHub stats](https://github-readme-stats.vercel.app/api?username=edi334&layout=compact&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edi334&layout=compact)
+
+***
+
+<div>
+<a href="https://github.com/edi334">
+  <img src="https://github-readme-stats.vercel.app/api?username=edi334&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+</a>
+
+<a href="https://github.com/edi334">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edi334&layout=compact&langs_count=5" height="180" />
+</a>
+</div>
