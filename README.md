@@ -4,7 +4,7 @@
 
 ```javascript
 const edi = {
-  code: [Javascript, Typescript, HTML, CSS, C, C++],
+  code: [Javascript, Typescript, HTML, CSS, C, C++, C#],
   frameworkOfChoice: Angular,
   hobbies: ['coding', 'volunteering'],
   communities: ['LigaAC', 'GDSC', 'tim.js']
