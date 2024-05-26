@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T20:13:25.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.8" etag="9o6A_3NBqI5mAv0aerDa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T20:23:41.704Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pGYO3Lpk5qTx3MBjmZcD" version="24.4.8" type="github">
   <diagram name="Page-1" id="S4j7CyKMP0NGGePpDvvC">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-2" value="Autentificare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-5" value="Adăugare utilizator&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;în organizație&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-8" value="Creare organizație" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-12" value="Creare inventar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-13" value="Adăugare obiect în inventar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-14" value="Editare/ștergere obiect" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-15" value="Transfer obiect pe un alt inventar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-16" value="Aprobare cerere de editare/ștergere/transfer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Elqjxyp_kKDMPJenmHu6-17" value="Creare cerere de editare/șteregere/transfer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
